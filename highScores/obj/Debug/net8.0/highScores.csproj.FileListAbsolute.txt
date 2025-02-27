@@ -1,0 +1,14 @@
+C:\Users\ds0998092\OneDrive - Ozarks Technical Community College\Documents\2025 - Spring\CIS 150 (C# I)\Programs\highScores\obj\Debug\net8.0\highScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ds0998092\OneDrive - Ozarks Technical Community College\Documents\2025 - Spring\CIS 150 (C# I)\Programs\highScores\obj\Debug\net8.0\highScores.AssemblyInfoInputs.cache
+C:\Users\ds0998092\OneDrive - Ozarks Technical Community College\Documents\2025 - Spring\CIS 150 (C# I)\Programs\highScores\obj\Debug\net8.0\highScores.AssemblyInfo.cs
+C:\Users\ds0998092\OneDrive - Ozarks Technical Community College\Documents\2025 - Spring\CIS 150 (C# I)\Programs\highScores\obj\Debug\net8.0\highScores.csproj.CoreCompileInputs.cache
+C:\Users\ds0998092\OneDrive - Ozarks Technical Community College\Documents\2025 - Spring\CIS 150 (C# I)\Programs\highScores\bin\Debug\net8.0\highScores.exe
+C:\Users\ds0998092\OneDrive - Ozarks Technical Community College\Documents\2025 - Spring\CIS 150 (C# I)\Programs\highScores\bin\Debug\net8.0\highScores.deps.json
+C:\Users\ds0998092\OneDrive - Ozarks Technical Community College\Documents\2025 - Spring\CIS 150 (C# I)\Programs\highScores\bin\Debug\net8.0\highScores.runtimeconfig.json
+C:\Users\ds0998092\OneDrive - Ozarks Technical Community College\Documents\2025 - Spring\CIS 150 (C# I)\Programs\highScores\bin\Debug\net8.0\highScores.dll
+C:\Users\ds0998092\OneDrive - Ozarks Technical Community College\Documents\2025 - Spring\CIS 150 (C# I)\Programs\highScores\bin\Debug\net8.0\highScores.pdb
+C:\Users\ds0998092\OneDrive - Ozarks Technical Community College\Documents\2025 - Spring\CIS 150 (C# I)\Programs\highScores\obj\Debug\net8.0\highScores.dll
+C:\Users\ds0998092\OneDrive - Ozarks Technical Community College\Documents\2025 - Spring\CIS 150 (C# I)\Programs\highScores\obj\Debug\net8.0\refint\highScores.dll
+C:\Users\ds0998092\OneDrive - Ozarks Technical Community College\Documents\2025 - Spring\CIS 150 (C# I)\Programs\highScores\obj\Debug\net8.0\highScores.pdb
+C:\Users\ds0998092\OneDrive - Ozarks Technical Community College\Documents\2025 - Spring\CIS 150 (C# I)\Programs\highScores\obj\Debug\net8.0\highScores.genruntimeconfig.cache
+C:\Users\ds0998092\OneDrive - Ozarks Technical Community College\Documents\2025 - Spring\CIS 150 (C# I)\Programs\highScores\obj\Debug\net8.0\ref\highScores.dll
